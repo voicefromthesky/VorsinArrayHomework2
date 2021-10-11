@@ -1,0 +1,13 @@
+C:\Users\andrloh\source\repos\VorsinArrayHomework2\VorsinArrayHomework2\bin\Debug\netcoreapp3.1\VorsinArrayHomework2.exe
+C:\Users\andrloh\source\repos\VorsinArrayHomework2\VorsinArrayHomework2\bin\Debug\netcoreapp3.1\VorsinArrayHomework2.deps.json
+C:\Users\andrloh\source\repos\VorsinArrayHomework2\VorsinArrayHomework2\bin\Debug\netcoreapp3.1\VorsinArrayHomework2.runtimeconfig.json
+C:\Users\andrloh\source\repos\VorsinArrayHomework2\VorsinArrayHomework2\bin\Debug\netcoreapp3.1\VorsinArrayHomework2.runtimeconfig.dev.json
+C:\Users\andrloh\source\repos\VorsinArrayHomework2\VorsinArrayHomework2\bin\Debug\netcoreapp3.1\VorsinArrayHomework2.dll
+C:\Users\andrloh\source\repos\VorsinArrayHomework2\VorsinArrayHomework2\bin\Debug\netcoreapp3.1\VorsinArrayHomework2.pdb
+C:\Users\andrloh\source\repos\VorsinArrayHomework2\VorsinArrayHomework2\obj\Debug\netcoreapp3.1\VorsinArrayHomework2.csprojAssemblyReference.cache
+C:\Users\andrloh\source\repos\VorsinArrayHomework2\VorsinArrayHomework2\obj\Debug\netcoreapp3.1\VorsinArrayHomework2.AssemblyInfoInputs.cache
+C:\Users\andrloh\source\repos\VorsinArrayHomework2\VorsinArrayHomework2\obj\Debug\netcoreapp3.1\VorsinArrayHomework2.AssemblyInfo.cs
+C:\Users\andrloh\source\repos\VorsinArrayHomework2\VorsinArrayHomework2\obj\Debug\netcoreapp3.1\VorsinArrayHomework2.csproj.CoreCompileInputs.cache
+C:\Users\andrloh\source\repos\VorsinArrayHomework2\VorsinArrayHomework2\obj\Debug\netcoreapp3.1\VorsinArrayHomework2.dll
+C:\Users\andrloh\source\repos\VorsinArrayHomework2\VorsinArrayHomework2\obj\Debug\netcoreapp3.1\VorsinArrayHomework2.pdb
+C:\Users\andrloh\source\repos\VorsinArrayHomework2\VorsinArrayHomework2\obj\Debug\netcoreapp3.1\VorsinArrayHomework2.genruntimeconfig.cache
